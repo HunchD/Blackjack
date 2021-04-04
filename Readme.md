@@ -6,6 +6,10 @@ Basic Blackjack implementation with Java
 
 The goal of Blackjack is to amount your card values as near to 21 as possible without exceeding or 'busting' it. Moreover, you have to beat whatever hand both the dealer and other players have drawn; The player with a maximum card value wins the game. For example, if they have 20 and you have 19, you lose the hand.
 
+## Busting
+
+When your card total exceeds 21, you "Bust". When the player busts, the dealer wins by default and Vice versa.
+
 ## Understanding Hitting
 
 "Hitting" is optional but could help you win the hand if your initial deal was a low value. It is requesting another card from the dealer. You may Hit any number of times in one turn. Do this until you are satisfied with your card total or bust.
