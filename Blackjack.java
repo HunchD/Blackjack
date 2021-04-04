@@ -84,6 +84,10 @@ public class Blackjack {
         {
             System.out.println("DEALER WINS !");
         }
+        if(player_total == dealer_total)
+        {
+            System.out.println("IT IS A TIE !");
+        }
         keyboard.close();
     }
 }
