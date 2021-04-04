@@ -23,4 +23,5 @@ Dealers do not place bets, nor are required to play minimum. If the dealer's fir
 * After the player has seen his card, The dealer shows his first card.
 * Based on this card, players decide to hit or stay their hands.
 * After each turn the player may decide to hit/stay.
-* Once the player decides to stay or he busts, the dealer reveals their second card and the winner is decided based on the one with the highest card value
+* Once the player decides to stay or he busts, the dealer reveals their second card and the winner is decided based on the one with the highest card value.
+* If both the dealer and the player have the same total, The game results in a tie.
